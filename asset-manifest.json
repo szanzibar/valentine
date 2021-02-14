@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/valentine/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/valentine/static/js/main.2248ec5a.chunk.js",
-    "main.js.map": "/valentine/static/js/main.2248ec5a.chunk.js.map",
+    "main.js": "/valentine/static/js/main.929d3088.chunk.js",
+    "main.js.map": "/valentine/static/js/main.929d3088.chunk.js.map",
     "runtime-main.js": "/valentine/static/js/runtime-main.52003524.js",
     "runtime-main.js.map": "/valentine/static/js/runtime-main.52003524.js.map",
-    "static/js/2.725dbb4b.chunk.js": "/valentine/static/js/2.725dbb4b.chunk.js",
-    "static/js/2.725dbb4b.chunk.js.map": "/valentine/static/js/2.725dbb4b.chunk.js.map",
+    "static/js/2.b801e43f.chunk.js": "/valentine/static/js/2.b801e43f.chunk.js",
+    "static/js/2.b801e43f.chunk.js.map": "/valentine/static/js/2.b801e43f.chunk.js.map",
     "static/js/3.ce809764.chunk.js": "/valentine/static/js/3.ce809764.chunk.js",
     "static/js/3.ce809764.chunk.js.map": "/valentine/static/js/3.ce809764.chunk.js.map",
     "index.html": "/valentine/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/valentine/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.725dbb4b.chunk.js.LICENSE.txt": "/valentine/static/js/2.725dbb4b.chunk.js.LICENSE.txt"
+    "static/js/2.b801e43f.chunk.js.LICENSE.txt": "/valentine/static/js/2.b801e43f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.52003524.js",
-    "static/js/2.725dbb4b.chunk.js",
+    "static/js/2.b801e43f.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.2248ec5a.chunk.js"
+    "static/js/main.929d3088.chunk.js"
   ]
 }
