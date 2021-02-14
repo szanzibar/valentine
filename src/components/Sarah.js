@@ -40,7 +40,7 @@ const App = () => {
         fontSize: '75px',
       },
       {
-        text: 'To Kathrin',
+        text: 'To Sarah',
         fontSize: '40px',
         lineHeight: '150px',
       },
@@ -50,13 +50,10 @@ const App = () => {
         lineHeight: '150px',
       },
       {
-        text: 'I love you so much.',
+        text: 'I always love hanging out and being around you',
       },
       {
-        text: 'Thank you for everything you do for me.',
-      },
-      {
-        text: 'My life is so much happier than before you were in it.',
+        text: 'You bring joy and kindness to everything you do',
       },
       {
         text: `Happy Valentine's day!`,
@@ -96,9 +93,13 @@ const App = () => {
   return (
     <div style={{ width: 1000 }}>
       <Container>
-        <ReactSwing style={stackStyle} throwout={(e) => console.log('throwout', e)}>
-          {renderCards()}
-        </ReactSwing>
+        <Row className="justify-content-md-center">
+          <Col md="auto">
+            <ReactSwing style={stackStyle} throwout={(e) => console.log('throwout', e)}>
+              {renderCards()}
+            </ReactSwing>
+          </Col>
+        </Row>
       </Container>
     </div>
   );
