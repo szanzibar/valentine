@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/valentine/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/valentine/static/js/main.8e2c95db.chunk.js",
-    "main.js.map": "/valentine/static/js/main.8e2c95db.chunk.js.map",
+    "main.js": "/valentine/static/js/main.2248ec5a.chunk.js",
+    "main.js.map": "/valentine/static/js/main.2248ec5a.chunk.js.map",
     "runtime-main.js": "/valentine/static/js/runtime-main.52003524.js",
     "runtime-main.js.map": "/valentine/static/js/runtime-main.52003524.js.map",
     "static/js/2.725dbb4b.chunk.js": "/valentine/static/js/2.725dbb4b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.52003524.js",
     "static/js/2.725dbb4b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8e2c95db.chunk.js"
+    "static/js/main.2248ec5a.chunk.js"
   ]
 }
