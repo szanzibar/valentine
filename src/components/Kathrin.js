@@ -59,6 +59,9 @@ const App = () => {
         text: 'My life is so much happier than before you were in it.',
       },
       {
+        text: 'I love you',
+      },
+      {
         text: `Happy Valentine's day!`,
       },
       {

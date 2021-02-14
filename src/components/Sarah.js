@@ -56,6 +56,9 @@ const App = () => {
         text: 'You bring joy and kindness to everything you do',
       },
       {
+        text: 'I love you',
+      },
+      {
         text: `Happy Valentine's day!`,
       },
       {
